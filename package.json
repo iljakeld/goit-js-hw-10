@@ -18,16 +18,17 @@
   "bugs": {
     "url": "https://github.com/iljakeld/goit-js-hw-10/issues"
   },
-  "dependencies": {
-    "lodash.debounce": "^4.0.8",
-    "modern-normalize": "^1.1.0",
-    "notiflix": "^3.2.5"
-  },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.5.0",
     "parcel": "^2.5.0",
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
+  },
+  "dependencies": {
+    "@pnotify/core": "^5.2.0",
+    "lodash.debounce": "^4.0.8",
+    "modern-normalize": "^1.1.0",
+    "notiflix": "^3.2.5"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
 }
