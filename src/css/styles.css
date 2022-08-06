@@ -18,26 +18,3 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
-
-.country-list {
-  list-style: none;
-  display: block;
-  align-content: center;
-}
-
-.flag {
-  height: 100px;
-  width: 140px;
-}
-.title-country {
-  display: flex;
-  font-size: 20px;
-  font-weight: 500;
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  text-align: center;
-}
-.info-title-data {
-font-weight: 750;
-font-size: 18 px;
- font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
